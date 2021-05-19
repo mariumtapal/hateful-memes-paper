@@ -49,13 +49,13 @@ b. Look how many people love you
 
 What did you decide? Did you have trouble classifying? The truth is, it could be interpreted both as hateful or non-hateful depending on the context. Therefore, unimodal data is hard to classify As humans, with ability to understand context, we couldn't figure it out - so what do you think a machine would have done?
 
---- Rest of the page is blank so you don't accidentally view question 2! ---
+--- Rest of the page is blank so you don't accidentally view question 2 ---
 
 \newpage
 
 #### 2. Multimodal Memes.
 
-Now look at the same memes below. Now they have images associated with the text. How would you classify them now? Has your answer changed?
+Now look at the same memes below. Now they have images associated with the text. How would you classify them? Has your answer changed?
 
 a. 
 ```{r, echo=FALSE, out.width='50%', fig.align='center'}
@@ -69,13 +69,13 @@ knitr::include_graphics("images/four.png")
 
 Having another modality made it easier as humans to detect what hate speech is!
 
---- Rest of the page is blank so you don't accidentally view question 3! ---
+--- Rest of the page is blank so you don't accidentally view question 3 ---
 
 \newpage
 
 #### 3. More Multimodal Memes.
 
-Now look at the following memes. What do you think about you answer now? Did it change again?
+Now look at the following memes. What do you think about your answer now? Did it change again?
 
 a. 
 ```{r, echo=FALSE, out.width='50%', fig.align='center'}
@@ -87,7 +87,7 @@ b.
 knitr::include_graphics("images/six.png")
 ```
 
-In part a, we changed the image, and in part b, we changed the text - but changing both of these flipped the classification of the meme! 
+In part a, we changed the image, and in part b, we changed the text - but changing either of these flipped the classification of the meme! 
 
 \newpage
 
