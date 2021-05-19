@@ -1,7 +1,8 @@
 ---
 title: "SDS 293 - Final Project"
-subtitle: "a guided activity about classification in unimodal and multimodal memes"
+subtitle: "a guided activity about binary classification in unimodal and multimodal memes"
 author: "Marium Tapal"
+date: "19 May 2021"
 output: pdf_document
 linkcolor: blue
 ---
